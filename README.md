@@ -121,14 +121,18 @@ src/
 
 ## 📜 License
 
-This project is for academic and educational purposes.
+This  group project is for academic and educational purposes.
 
 ---
 
 ## 👨‍💻 Author
 
 **Rajvi Krishnaji Rao**
-Final Year Project – AI/Software Engineering
+**Yathin G**
+**Gaurav Krishn**
+**Neha G Manure**
+Final Year Projec
+t – AI/Software Engineering
 
 ---
 
